@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeoo_space=self.webpackChunkmeoo_space||[]).push([[5811],{1181:function(e){e.exports=JSON.parse('{"label":"Vue","permalink":"/en/blog/tags/vue","allTagsPath":"/en/blog/tags","count":4}')}}]);

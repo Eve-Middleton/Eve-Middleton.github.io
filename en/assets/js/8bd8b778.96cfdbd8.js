@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeoo_space=self.webpackChunkmeoo_space||[]).push([[9977],{8397:function(e){e.exports=JSON.parse('{"permalink":"/en/blog/tags/java","page":1,"postsPerPage":5,"totalPages":2,"totalCount":6,"nextPage":"/en/blog/tags/java/page/2","blogDescription":"Blog","blogTitle":"\u535a\u5ba2"}')}}]);
