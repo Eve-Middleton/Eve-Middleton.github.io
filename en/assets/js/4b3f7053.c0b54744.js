@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmeoo_space=self.webpackChunkmeoo_space||[]).push([[1989],{5655:function(a){a.exports=JSON.parse('{"label":"Java","permalink":"/en/blog/tags/java","allTagsPath":"/en/blog/tags","count":6}')}}]);
